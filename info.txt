@@ -1,3 +1,4 @@
 Name: Bhuwadol Sriton
-Nickname: Tik
 Tel: 0981523212
+Address: Maha Sarakham
+Birthday: 23/08/2002
